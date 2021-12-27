@@ -1,8 +1,8 @@
 [link=https://github.com/eclipse/poosl/actions/workflows/maven.yml]
 image::https://github.com/eclipse/poosl/workflows/Java%20CI/badge.svg[gh-actions status]
 
-This is a temporary repository to prepare POOSL IDE to go to the Eclipse Foundation. 
-Be aware this repository as it will soon disappear.
+This is an archived repository used to prepare POOSL IDE to go to the Eclipse Foundation. 
+The code has moved to the Eclipse Foundation, you can find it on: https://github.com/eclipse/poosl
 
 = Brief introduction to the POOSL project
 
